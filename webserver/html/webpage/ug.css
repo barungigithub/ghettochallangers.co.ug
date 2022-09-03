@@ -1,0 +1,42 @@
+body{
+background-color:grey;
+padding:20px;
+border:5px black groove;
+}
+p.head{
+	color:white;
+	font-size:30px;
+    width:390px;
+	float:center;
+}
+hr{
+width:1100px;
+background-color:white;
+
+}
+.footer{
+background-color: black;
+color: white;
+
+}
+#div1{
+	color:blue;
+}
+#align{
+	background-color: lightblue;
+	border-bottom: 2px lightslategray solid;
+	border-top: 2px lightslategray solid;
+	border-left: 4px black solid;
+	border-right: 4px black solid;
+	border-radius: 2px;
+	margin-left:400px;
+	margin-right: 400px;
+	margin-top:100px;
+	padding:50px;
+
+}
+#copy{
+	color:blue;
+	font-style: italic;
+	text-align: center;
+}
